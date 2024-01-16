@@ -1,0 +1,12 @@
+﻿D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\HumanManagement.MsSqlExactus\Connections\ExactusReadDbConnection.cs
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\HumanManagement.MsSqlExactus\Connections\ExactusWriteDbConnection.cs
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\HumanManagement.MsSqlExactus\Context\ExactusDbContext.cs
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\HumanManagement.MsSqlExactus\Context\ExactusDbContextMsSql.cs
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\HumanManagement.MsSqlExactus\Repository\BaseExactusRepository.cs
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\HumanManagement.MsSqlExactus\Repository\ExactusDepartamentoRepository.cs
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\HumanManagement.MsSqlExactus\Repository\ExactusEALLEmpleadoRepository.cs
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\HumanManagement.MsSqlExactus\Repository\ExactusEmpleadoRepository.cs
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\HumanManagement.MsSqlExactus\Repository\ExactusMedicalRequestRepository.cs
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\HumanManagement.MsSqlExactus\Repository\ExactusNominaCabRepository.cs
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\HumanManagement.MsSqlExactus\Repository\ExactusNominaRepository.cs
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\HumanManagement.MsSqlExactus\Repository\ExactusPuestoRepository.cs

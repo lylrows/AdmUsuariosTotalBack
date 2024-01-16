@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Controllers\Category\**" />
+    <Content Remove="Controllers\Category\**" />
+    <EmbeddedResource Remove="Controllers\Category\**" />
+    <EntityDeploy Remove="Controllers\Category\**" />
+    <None Remove="Controllers\Category\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.0" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.22" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.5" />
+    <PackageReference Include="Serilog.Extensions.Logging.File" Version="2.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HumanManagement.CrossCutting\HumanManagement.CrossCutting.csproj" />
+    <ProjectReference Include="..\HumanManagement.Domain\HumanManagement.Domain.csproj" />
+    <ProjectReference Include="..\HumanManagement.Mail\HumanManagement.Mail.csproj" />
+    <ProjectReference Include="..\HumanManagement.MsSql\HumanManagement.MsSql.csproj" />
+    <ProjectReference Include="..\HumanManagement.ReadHtml\HumanManagement.ReadHtml.csproj" />
+    <ProjectReference Include="..\SitePostulant.Application\SitePostulant.Application.csproj" />
+  </ItemGroup>
+
+  <ProjectExtensions><VisualStudio><UserProperties appsettings_1json__JsonSchema="" /></VisualStudio></ProjectExtensions>
+
+</Project>

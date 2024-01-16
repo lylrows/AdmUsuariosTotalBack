@@ -1,0 +1,51 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>ff3c128f-953d-4076-8845-1a5a0a7a39bc</UserSecretsId>
+    <PublishWithAspNetCoreTargetManifest>false</PublishWithAspNetCoreTargetManifest>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
+    <PackageReference Include="HtmlRenderer.PdfSharp" Version="1.5.0.6" />
+    <PackageReference Include="Microsoft.AspNet.WebApi.Core" Version="5.2.9" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.22" />
+    <PackageReference Include="Microsoft.AspNetCore.Cors" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.SignalR" Version="1.1.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.13">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.13" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.5" />
+    <PackageReference Include="Serilog.Extensions.Logging.File" Version="2.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HumanManagement.Application\HumanManagement.Application.csproj" />
+    <ProjectReference Include="..\HumanManagement.CrossCutting\HumanManagement.CrossCutting.csproj" />
+    <ProjectReference Include="..\HumanManagement.ExactusImport\HumanManagement.ExactusImport.csproj" />
+    <ProjectReference Include="..\HumanManagement.Mail\HumanManagement.Mail.csproj" />
+    <ProjectReference Include="..\HumanManagement.MsSqlExactus\HumanManagement.MsSqlExactus.csproj" />
+    <ProjectReference Include="..\HumanManagement.MsSqlServerUs\HumanManagement.MsSqlServerUs.csproj" />
+    <ProjectReference Include="..\HumanManagement.MsSql\HumanManagement.MsSql.csproj" />
+    <ProjectReference Include="..\HumanManagement.Pdf\HumanManagement.Pdf.csproj" />
+    <ProjectReference Include="..\HumanManagement.ReadHtml\HumanManagement.ReadHtml.csproj" />
+    <ProjectReference Include="..\HumanManagement.Security\HumanManagement.Security.csproj" />
+    <!--<ProjectReference Include="..\SitePostulantApi\SitePostulantApi.csproj" />-->
+    <ProjectReference Include="..\WSHumanManagement.Application\WSHumanManagement.Application.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Properties\PublishProfiles\" />
+  </ItemGroup>
+
+  <ProjectExtensions><VisualStudio><UserProperties appsettings_1json__JsonSchema="" /></VisualStudio></ProjectExtensions>
+
+
+</Project>

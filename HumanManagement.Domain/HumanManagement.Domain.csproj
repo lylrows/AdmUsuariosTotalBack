@@ -1,0 +1,42 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Empresa\Entities\**" />
+    <EmbeddedResource Remove="Empresa\Entities\**" />
+    <None Remove="Empresa\Entities\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="WindowsService\ServerUs\Dto\ServerUsInsPermSPDto.cs~RF3144aa87.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Areas\Entities\" />
+    <Folder Include="Cargo\Entities\" />
+    <Folder Include="Country\Contracts\" />
+    <Folder Include="Exceptions\" />
+    <Folder Include="HMExactus\Contracts\" />
+    <Folder Include="NewFolder\" />
+    <Folder Include="Payroll\" />
+    <Folder Include="Postulant\Disability\Contracts\" />
+    <Folder Include="WindowsService\Exactus\Enum\" />
+    <Folder Include="WindowsService\ServerUs\Enum\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.123" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Features" Version="5.0.14" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.13" />
+    <PackageReference Include="Microsoft.Extensions.Options" Version="6.0.0" />
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="6.15.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HumanManagement.CrossCutting\HumanManagement.CrossCutting.csproj" />
+  </ItemGroup>
+
+</Project>

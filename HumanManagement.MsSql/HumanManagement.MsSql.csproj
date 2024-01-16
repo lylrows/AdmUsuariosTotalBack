@@ -1,0 +1,34 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Repository\PersonRepository.cs~RF1feff0f4.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.123" />
+    <PackageReference Include="LinqKit" Version="1.2.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.13" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="5.0.13" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.13">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="morelinq" Version="3.3.2" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HumanManagement.Application\HumanManagement.Application.csproj" />
+    <ProjectReference Include="..\HumanManagement.Domain\HumanManagement.Domain.csproj" />
+    <ProjectReference Include="..\SitePostulant.Application\SitePostulant.Application.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Repository\Employee\" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,7 @@
+﻿namespace HumanManagement.Domain.Events
+{
+    public interface IEventHandling<T> where T : IDomainEvent
+    {
+        void Handler(T args);
+    }
+}

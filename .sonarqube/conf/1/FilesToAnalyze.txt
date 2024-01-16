@@ -1,0 +1,6 @@
+﻿D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\HumanManagement.CrossCutting\Utils\AppSettings.cs
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\HumanManagement.CrossCutting\Utils\Constants.cs
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\HumanManagement.CrossCutting\Utils\ExecApiFormHelper.cs
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\HumanManagement.CrossCutting\Utils\Functions.cs
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\HumanManagement.CrossCutting\Utils\LeerHtml.cs
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\HumanManagement.CrossCutting\Utils\Notifications.cs

@@ -1,0 +1,16 @@
+﻿D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\WSHumanManagement.Application\Exactus\Departamento\IServices\IExactusDepartamentoLogic.cs
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\WSHumanManagement.Application\Exactus\Departamento\IServices\IExactusDepartamentoService.cs
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\WSHumanManagement.Application\Exactus\Departamento\Services\ExactusDepartamentoLogic.cs
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\WSHumanManagement.Application\Exactus\Departamento\Services\ExactusDepartamentoService.cs
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\WSHumanManagement.Application\Exactus\Empleado\IServices\IExactusEmpleadoService.cs
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\WSHumanManagement.Application\Exactus\Empleado\Services\ExactusEmpleadoService.cs
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\WSHumanManagement.Application\Exactus\Nomina\IServices\IExactusNominaService.cs
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\WSHumanManagement.Application\Exactus\Nomina\Services\ExactusNominaService.cs
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\WSHumanManagement.Application\Exactus\Puesto\IServices\IExactusPuestoLogic.cs
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\WSHumanManagement.Application\Exactus\Puesto\IServices\IExactusPuestoService.cs
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\WSHumanManagement.Application\Exactus\Puesto\Services\ExactusPuestoLogic.cs
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\WSHumanManagement.Application\Exactus\Puesto\Services\ExactusPuestoService.cs
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\WSHumanManagement.Application\Extensions\CustomWindowsService.cs
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\WSHumanManagement.Application\Response\Result.cs
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\WSHumanManagement.Application\ServerUs\Asistencia\IServices\IServerUsAsistenciaService.cs
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\WSHumanManagement.Application\ServerUs\Asistencia\Services\ServerUsAsistenciaService.cs

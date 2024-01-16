@@ -1,0 +1,5047 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Compilador de Microsoft (R) Visual C#",
+        "version": "3.9.0.0",
+        "fileVersion": "3.9.0-6.21160.10 (59eedc33)",
+        "semanticVersion": "3.9.0",
+        "language": "es-ES"
+      },
+      "results": [
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/ExecApiFormHelper.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 13,
+                  "endLine": 17,
+                  "endColumn": 40
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/ExecApiFormHelper.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 17,
+                  "endLine": 27,
+                  "endColumn": 69
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/ExecApiFormHelper.cs",
+                "region": {
+                  "startLine": 49,
+                  "startColumn": 25,
+                  "endLine": 49,
+                  "endColumn": 93
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 92,
+                  "startColumn": 19,
+                  "endLine": 92,
+                  "endColumn": 91
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 210,
+                  "startColumn": 21,
+                  "endLine": 210,
+                  "endColumn": 67
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 252,
+                  "startColumn": 29,
+                  "endLine": 252,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 578,
+                  "startColumn": 17,
+                  "endLine": 578,
+                  "endColumn": 125
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 596,
+                  "startColumn": 17,
+                  "endLine": 596,
+                  "endColumn": 125
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 610,
+                  "startColumn": 17,
+                  "endLine": 610,
+                  "endColumn": 95
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1249,
+                  "startColumn": 17,
+                  "endLine": 1249,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1258,
+                  "startColumn": 17,
+                  "endLine": 1258,
+                  "endColumn": 60
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1377,
+                  "startColumn": 25,
+                  "endLine": 1377,
+                  "endColumn": 96
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1429,
+                  "startColumn": 29,
+                  "endLine": 1429,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1118",
+          "level": "warning",
+          "message": "Add a 'protected' constructor or the 'static' keyword to the class declaration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/LeerHtml.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 18,
+                  "endLine": 5,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2326",
+          "level": "warning",
+          "message": "'TRequest' is not used in the class.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/ExecApiFormHelper.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 43,
+                  "endLine": 11,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2326",
+          "level": "warning",
+          "message": "'TResponse' is not used in the class.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/ExecApiFormHelper.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 53,
+                  "endLine": 11,
+                  "endColumn": 62
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1118",
+          "level": "warning",
+          "message": "Add a 'protected' constructor or the 'static' keyword to the class declaration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Constants.cs",
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 22,
+                  "endLine": 6,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1118",
+          "level": "warning",
+          "message": "Add a 'protected' constructor or the 'static' keyword to the class declaration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Constants.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 22,
+                  "endLine": 10,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1118",
+          "level": "warning",
+          "message": "Add a 'protected' constructor or the 'static' keyword to the class declaration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Constants.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 22,
+                  "endLine": 14,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1118",
+          "level": "warning",
+          "message": "Add a 'protected' constructor or the 'static' keyword to the class declaration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Constants.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 26,
+                  "endLine": 27,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1118",
+          "level": "warning",
+          "message": "Add a 'protected' constructor or the 'static' keyword to the class declaration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 18,
+                  "endLine": 13,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1118",
+          "level": "warning",
+          "message": "Add a 'protected' constructor or the 'static' keyword to the class declaration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Constants.cs",
+                "region": {
+                  "startLine": 39,
+                  "startColumn": 26,
+                  "endLine": 39,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1075",
+          "level": "warning",
+          "message": "Refactor your code not to use hardcoded absolute paths or URIs.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Constants.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 64,
+                  "endLine": 26,
+                  "endColumn": 122
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1118",
+          "level": "warning",
+          "message": "Add a 'protected' constructor or the 'static' keyword to the class declaration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Constants.cs",
+                "region": {
+                  "startLine": 48,
+                  "startColumn": 22,
+                  "endLine": 48,
+                  "endColumn": 40
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1118",
+          "level": "warning",
+          "message": "Add a 'protected' constructor or the 'static' keyword to the class declaration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Constants.cs",
+                "region": {
+                  "startLine": 53,
+                  "startColumn": 22,
+                  "endLine": 53,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1075",
+          "level": "warning",
+          "message": "Refactor your code not to use hardcoded absolute paths or URIs.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Constants.cs",
+                "region": {
+                  "startLine": 56,
+                  "startColumn": 53,
+                  "endLine": 56,
+                  "endColumn": 108
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1075",
+          "level": "warning",
+          "message": "Refactor your code not to use hardcoded absolute paths or URIs.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Constants.cs",
+                "region": {
+                  "startLine": 55,
+                  "startColumn": 50,
+                  "endLine": 55,
+                  "endColumn": 100
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1118",
+          "level": "warning",
+          "message": "Add a 'protected' constructor or the 'static' keyword to the class declaration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Constants.cs",
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 22,
+                  "endLine": 59,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1118",
+          "level": "warning",
+          "message": "Add a 'protected' constructor or the 'static' keyword to the class declaration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Constants.cs",
+                "region": {
+                  "startLine": 64,
+                  "startColumn": 22,
+                  "endLine": 64,
+                  "endColumn": 50
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1118",
+          "level": "warning",
+          "message": "Add a 'protected' constructor or the 'static' keyword to the class declaration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Constants.cs",
+                "region": {
+                  "startLine": 72,
+                  "startColumn": 22,
+                  "endLine": 72,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1185",
+          "level": "warning",
+          "message": "Remove this method 'OnConnectedAsync' to simply inherit its behavior.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Notifications.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 9,
+                  "endLine": 15,
+                  "endColumn": 10
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S108",
+          "level": "warning",
+          "message": "Either remove or fill this block of code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/ExecApiFormHelper.cs",
+                "region": {
+                  "startLine": 65,
+                  "startColumn": 42,
+                  "endLine": 65,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S108",
+          "level": "warning",
+          "message": "Either remove or fill this block of code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/ExecApiFormHelper.cs",
+                "region": {
+                  "startLine": 78,
+                  "startColumn": 38,
+                  "endLine": 78,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'd'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/ExecApiFormHelper.cs",
+                "region": {
+                  "startLine": 63,
+                  "startColumn": 29,
+                  "endLine": 63,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'd'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/ExecApiFormHelper.cs",
+                "region": {
+                  "startLine": 74,
+                  "startColumn": 25,
+                  "endLine": 74,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3776",
+          "level": "warning",
+          "message": "Refactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 481,
+                  "startColumn": 28,
+                  "endLine": 481,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 565,
+                  "startColumn": 17,
+                  "endLine": 565,
+                  "endColumn": 24
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 619,
+                  "startColumn": 17,
+                  "endLine": 619,
+                  "endColumn": 24
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 622,
+                  "startColumn": 21,
+                  "endLine": 622,
+                  "endColumn": 23
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 637,
+                  "startColumn": 17,
+                  "endLine": 637,
+                  "endColumn": 24
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 642,
+                  "startColumn": 72,
+                  "endLine": 642,
+                  "endColumn": 73
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 644,
+                  "startColumn": 21,
+                  "endLine": 644,
+                  "endColumn": 28
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 650,
+                  "startColumn": 25,
+                  "endLine": 650,
+                  "endColumn": 27
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 655,
+                  "startColumn": 25,
+                  "endLine": 655,
+                  "endColumn": 29
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 662,
+                  "startColumn": 25,
+                  "endLine": 662,
+                  "endColumn": 27
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 664,
+                  "startColumn": 25,
+                  "endLine": 664,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "+1",
+              "1": "+1",
+              "2": "+2 (incl 1 for nesting)",
+              "3": "+1",
+              "4": "+2 (incl 1 for nesting)",
+              "5": "+2 (incl 1 for nesting)",
+              "6": "+3 (incl 2 for nesting)",
+              "7": "+1",
+              "8": "+3 (incl 2 for nesting)",
+              "9": "+1"
+            }
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1477,
+                  "startColumn": 13,
+                  "endLine": 1477,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3923",
+          "level": "warning",
+          "message": "Remove this conditional structure or edit its code blocks so that they're not all the same.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 650,
+                  "startColumn": 25,
+                  "endLine": 650,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3776",
+          "level": "warning",
+          "message": "Refactor this method to reduce its Cognitive Complexity from 44 to the 15 allowed.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 752,
+                  "startColumn": 28,
+                  "endLine": 752,
+                  "endColumn": 48
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 995,
+                  "startColumn": 17,
+                  "endLine": 995,
+                  "endColumn": 24
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1002,
+                  "startColumn": 21,
+                  "endLine": 1002,
+                  "endColumn": 23
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1006,
+                  "startColumn": 21,
+                  "endLine": 1006,
+                  "endColumn": 25
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1017,
+                  "startColumn": 25,
+                  "endLine": 1017,
+                  "endColumn": 27
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1021,
+                  "startColumn": 25,
+                  "endLine": 1021,
+                  "endColumn": 29
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1023,
+                  "startColumn": 29,
+                  "endLine": 1023,
+                  "endColumn": 31
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1027,
+                  "startColumn": 29,
+                  "endLine": 1027,
+                  "endColumn": 33
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1029,
+                  "startColumn": 33,
+                  "endLine": 1029,
+                  "endColumn": 35
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1033,
+                  "startColumn": 33,
+                  "endLine": 1033,
+                  "endColumn": 37
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1034,
+                  "startColumn": 37,
+                  "endLine": 1034,
+                  "endColumn": 39
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1038,
+                  "startColumn": 37,
+                  "endLine": 1038,
+                  "endColumn": 41
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1053,
+                  "startColumn": 17,
+                  "endLine": 1053,
+                  "endColumn": 24
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1056,
+                  "startColumn": 21,
+                  "endLine": 1056,
+                  "endColumn": 28
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1061,
+                  "startColumn": 25,
+                  "endLine": 1061,
+                  "endColumn": 27
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1068,
+                  "startColumn": 25,
+                  "endLine": 1068,
+                  "endColumn": 29
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1070,
+                  "startColumn": 29,
+                  "endLine": 1070,
+                  "endColumn": 31
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1077,
+                  "startColumn": 29,
+                  "endLine": 1077,
+                  "endColumn": 33
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1080,
+                  "startColumn": 33,
+                  "endLine": 1080,
+                  "endColumn": 35
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1089,
+                  "startColumn": 33,
+                  "endLine": 1089,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "+1",
+              "1": "+2 (incl 1 for nesting)",
+              "10": "+1",
+              "11": "+1",
+              "12": "+2 (incl 1 for nesting)",
+              "13": "+3 (incl 2 for nesting)",
+              "14": "+1",
+              "15": "+4 (incl 3 for nesting)",
+              "16": "+1",
+              "17": "+5 (incl 4 for nesting)",
+              "18": "+1",
+              "2": "+1",
+              "3": "+3 (incl 2 for nesting)",
+              "4": "+1",
+              "5": "+4 (incl 3 for nesting)",
+              "6": "+1",
+              "7": "+5 (incl 4 for nesting)",
+              "8": "+1",
+              "9": "+6 (incl 5 for nesting)"
+            }
+          }
+        },
+        {
+          "ruleId": "S3776",
+          "level": "warning",
+          "message": "Refactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1119,
+                  "startColumn": 28,
+                  "endLine": 1119,
+                  "endColumn": 46
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1356,
+                  "startColumn": 17,
+                  "endLine": 1356,
+                  "endColumn": 24
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1369,
+                  "startColumn": 17,
+                  "endLine": 1369,
+                  "endColumn": 24
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1372,
+                  "startColumn": 21,
+                  "endLine": 1372,
+                  "endColumn": 28
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1382,
+                  "startColumn": 25,
+                  "endLine": 1382,
+                  "endColumn": 27
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1392,
+                  "startColumn": 25,
+                  "endLine": 1392,
+                  "endColumn": 29
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1398,
+                  "startColumn": 25,
+                  "endLine": 1398,
+                  "endColumn": 29
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1405,
+                  "startColumn": 25,
+                  "endLine": 1405,
+                  "endColumn": 29
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1409,
+                  "startColumn": 29,
+                  "endLine": 1409,
+                  "endColumn": 31
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1413,
+                  "startColumn": 29,
+                  "endLine": 1413,
+                  "endColumn": 33
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1417,
+                  "startColumn": 29,
+                  "endLine": 1417,
+                  "endColumn": 33
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1421,
+                  "startColumn": 29,
+                  "endLine": 1421,
+                  "endColumn": 33
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1425,
+                  "startColumn": 29,
+                  "endLine": 1425,
+                  "endColumn": 33
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1433,
+                  "startColumn": 25,
+                  "endLine": 1433,
+                  "endColumn": 29
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1438,
+                  "startColumn": 25,
+                  "endLine": 1438,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "+1",
+              "1": "+1",
+              "10": "+1",
+              "11": "+1",
+              "12": "+1",
+              "13": "+1",
+              "2": "+2 (incl 1 for nesting)",
+              "3": "+3 (incl 2 for nesting)",
+              "4": "+1",
+              "5": "+1",
+              "6": "+1",
+              "7": "+4 (incl 3 for nesting)",
+              "8": "+1",
+              "9": "+1"
+            }
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 172,
+                  "startColumn": 21,
+                  "endLine": 172,
+                  "endColumn": 64
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 173,
+                  "startColumn": 21,
+                  "endLine": 173,
+                  "endColumn": 44
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 220,
+                  "startColumn": 25,
+                  "endLine": 220,
+                  "endColumn": 172
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 225,
+                  "startColumn": 21,
+                  "endLine": 225,
+                  "endColumn": 57
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'error'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 301,
+                  "startColumn": 21,
+                  "endLine": 301,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 499,
+                  "startColumn": 17,
+                  "endLine": 499,
+                  "endColumn": 60
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 500,
+                  "startColumn": 17,
+                  "endLine": 500,
+                  "endColumn": 40
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 567,
+                  "startColumn": 21,
+                  "endLine": 567,
+                  "endColumn": 168
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 572,
+                  "startColumn": 17,
+                  "endLine": 572,
+                  "endColumn": 53
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 609,
+                  "startColumn": 17,
+                  "endLine": 609,
+                  "endColumn": 92
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1871",
+          "level": "warning",
+          "message": "Either merge this branch with the identical one on line 651 or change one of the implementations.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 656,
+                  "startColumn": 25,
+                  "endLine": 659,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 651,
+                  "startColumn": 25,
+                  "endLine": 654,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S107",
+          "level": "warning",
+          "message": "Method has 11 parameters, which is greater than the 7 authorized.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 481,
+                  "startColumn": 43,
+                  "endLine": 485,
+                  "endColumn": 14
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1125",
+          "level": "warning",
+          "message": "Remove the unnecessary Boolean literal(s).",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 642,
+                  "startColumn": 74,
+                  "endLine": 642,
+                  "endColumn": 86
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 320,
+                  "startColumn": 17,
+                  "endLine": 320,
+                  "endColumn": 60
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 321,
+                  "startColumn": 17,
+                  "endLine": 321,
+                  "endColumn": 40
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 382,
+                  "startColumn": 17,
+                  "endLine": 382,
+                  "endColumn": 167
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 383,
+                  "startColumn": 17,
+                  "endLine": 383,
+                  "endColumn": 167
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 384,
+                  "startColumn": 17,
+                  "endLine": 384,
+                  "endColumn": 164
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 385,
+                  "startColumn": 17,
+                  "endLine": 385,
+                  "endColumn": 167
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 386,
+                  "startColumn": 17,
+                  "endLine": 386,
+                  "endColumn": 167
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 387,
+                  "startColumn": 17,
+                  "endLine": 387,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 388,
+                  "startColumn": 17,
+                  "endLine": 388,
+                  "endColumn": 167
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 389,
+                  "startColumn": 17,
+                  "endLine": 389,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 390,
+                  "startColumn": 17,
+                  "endLine": 390,
+                  "endColumn": 167
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 391,
+                  "startColumn": 17,
+                  "endLine": 391,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 392,
+                  "startColumn": 17,
+                  "endLine": 392,
+                  "endColumn": 167
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 393,
+                  "startColumn": 17,
+                  "endLine": 393,
+                  "endColumn": 167
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 394,
+                  "startColumn": 17,
+                  "endLine": 394,
+                  "endColumn": 167
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 395,
+                  "startColumn": 17,
+                  "endLine": 395,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 396,
+                  "startColumn": 17,
+                  "endLine": 396,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 397,
+                  "startColumn": 17,
+                  "endLine": 397,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 398,
+                  "startColumn": 17,
+                  "endLine": 398,
+                  "endColumn": 163
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 399,
+                  "startColumn": 17,
+                  "endLine": 399,
+                  "endColumn": 163
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 400,
+                  "startColumn": 17,
+                  "endLine": 400,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 401,
+                  "startColumn": 17,
+                  "endLine": 401,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 402,
+                  "startColumn": 17,
+                  "endLine": 402,
+                  "endColumn": 167
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 403,
+                  "startColumn": 17,
+                  "endLine": 403,
+                  "endColumn": 167
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 404,
+                  "startColumn": 17,
+                  "endLine": 404,
+                  "endColumn": 167
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 405,
+                  "startColumn": 17,
+                  "endLine": 405,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 406,
+                  "startColumn": 17,
+                  "endLine": 406,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 407,
+                  "startColumn": 17,
+                  "endLine": 407,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 408,
+                  "startColumn": 17,
+                  "endLine": 408,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 409,
+                  "startColumn": 17,
+                  "endLine": 409,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 410,
+                  "startColumn": 17,
+                  "endLine": 410,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 411,
+                  "startColumn": 17,
+                  "endLine": 411,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 412,
+                  "startColumn": 17,
+                  "endLine": 412,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 413,
+                  "startColumn": 17,
+                  "endLine": 413,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 414,
+                  "startColumn": 17,
+                  "endLine": 414,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 415,
+                  "startColumn": 17,
+                  "endLine": 415,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 416,
+                  "startColumn": 17,
+                  "endLine": 416,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 417,
+                  "startColumn": 17,
+                  "endLine": 417,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 418,
+                  "startColumn": 17,
+                  "endLine": 418,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 419,
+                  "startColumn": 17,
+                  "endLine": 419,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 420,
+                  "startColumn": 17,
+                  "endLine": 420,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 421,
+                  "startColumn": 17,
+                  "endLine": 421,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 422,
+                  "startColumn": 17,
+                  "endLine": 422,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 423,
+                  "startColumn": 17,
+                  "endLine": 423,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 424,
+                  "startColumn": 17,
+                  "endLine": 424,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 425,
+                  "startColumn": 17,
+                  "endLine": 425,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 426,
+                  "startColumn": 17,
+                  "endLine": 426,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 427,
+                  "startColumn": 17,
+                  "endLine": 427,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 436,
+                  "startColumn": 17,
+                  "endLine": 436,
+                  "endColumn": 53
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1854",
+          "level": "warning",
+          "message": "Remove this useless assignment to local variable 'contadorColumn'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 427,
+                  "startColumn": 168,
+                  "endLine": 427,
+                  "endColumn": 184
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 766,
+                  "startColumn": 17,
+                  "endLine": 766,
+                  "endColumn": 60
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 767,
+                  "startColumn": 17,
+                  "endLine": 767,
+                  "endColumn": 40
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 898,
+                  "startColumn": 17,
+                  "endLine": 898,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 899,
+                  "startColumn": 17,
+                  "endLine": 899,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 900,
+                  "startColumn": 17,
+                  "endLine": 900,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 901,
+                  "startColumn": 17,
+                  "endLine": 901,
+                  "endColumn": 164
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 902,
+                  "startColumn": 17,
+                  "endLine": 902,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 903,
+                  "startColumn": 17,
+                  "endLine": 903,
+                  "endColumn": 164
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 905,
+                  "startColumn": 17,
+                  "endLine": 905,
+                  "endColumn": 163
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 907,
+                  "startColumn": 17,
+                  "endLine": 907,
+                  "endColumn": 164
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 908,
+                  "startColumn": 17,
+                  "endLine": 908,
+                  "endColumn": 164
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 909,
+                  "startColumn": 17,
+                  "endLine": 909,
+                  "endColumn": 164
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 910,
+                  "startColumn": 17,
+                  "endLine": 910,
+                  "endColumn": 164
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 911,
+                  "startColumn": 17,
+                  "endLine": 911,
+                  "endColumn": 164
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 912,
+                  "startColumn": 17,
+                  "endLine": 912,
+                  "endColumn": 164
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 913,
+                  "startColumn": 17,
+                  "endLine": 913,
+                  "endColumn": 164
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 914,
+                  "startColumn": 17,
+                  "endLine": 914,
+                  "endColumn": 164
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 916,
+                  "startColumn": 17,
+                  "endLine": 916,
+                  "endColumn": 163
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 918,
+                  "startColumn": 17,
+                  "endLine": 918,
+                  "endColumn": 164
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 920,
+                  "startColumn": 17,
+                  "endLine": 920,
+                  "endColumn": 163
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 922,
+                  "startColumn": 17,
+                  "endLine": 922,
+                  "endColumn": 164
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 923,
+                  "startColumn": 17,
+                  "endLine": 923,
+                  "endColumn": 164
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 924,
+                  "startColumn": 17,
+                  "endLine": 924,
+                  "endColumn": 164
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 925,
+                  "startColumn": 17,
+                  "endLine": 925,
+                  "endColumn": 164
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 926,
+                  "startColumn": 17,
+                  "endLine": 926,
+                  "endColumn": 164
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 927,
+                  "startColumn": 17,
+                  "endLine": 927,
+                  "endColumn": 164
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 928,
+                  "startColumn": 17,
+                  "endLine": 928,
+                  "endColumn": 164
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 929,
+                  "startColumn": 17,
+                  "endLine": 929,
+                  "endColumn": 164
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 930,
+                  "startColumn": 17,
+                  "endLine": 930,
+                  "endColumn": 164
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 931,
+                  "startColumn": 17,
+                  "endLine": 931,
+                  "endColumn": 164
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 933,
+                  "startColumn": 17,
+                  "endLine": 933,
+                  "endColumn": 163
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 935,
+                  "startColumn": 17,
+                  "endLine": 935,
+                  "endColumn": 164
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 943,
+                  "startColumn": 17,
+                  "endLine": 943,
+                  "endColumn": 53
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1087,
+                  "startColumn": 37,
+                  "endLine": 1087,
+                  "endColumn": 59
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1854",
+          "level": "warning",
+          "message": "Remove this useless assignment to local variable 'contadorColumn'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 935,
+                  "startColumn": 166,
+                  "endLine": 935,
+                  "endColumn": 182
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 17,
+                  "endLine": 29,
+                  "endColumn": 60
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 17,
+                  "endLine": 30,
+                  "endColumn": 40
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'Worksheet.Worksheet(IEnumerable<OpenXmlElement> childElements)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 76,
+                  "startColumn": 43,
+                  "endLine": 76,
+                  "endColumn": 102
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 88,
+                  "startColumn": 21,
+                  "endLine": 88,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 119,
+                  "startColumn": 21,
+                  "endLine": 119,
+                  "endColumn": 105
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 120,
+                  "startColumn": 21,
+                  "endLine": 120,
+                  "endColumn": 105
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 121,
+                  "startColumn": 21,
+                  "endLine": 121,
+                  "endColumn": 105
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 122,
+                  "startColumn": 21,
+                  "endLine": 122,
+                  "endColumn": 105
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 123,
+                  "startColumn": 21,
+                  "endLine": 123,
+                  "endColumn": 105
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1133,
+                  "startColumn": 17,
+                  "endLine": 1133,
+                  "endColumn": 60
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1134,
+                  "startColumn": 17,
+                  "endLine": 1134,
+                  "endColumn": 40
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1295,
+                  "startColumn": 17,
+                  "endLine": 1295,
+                  "endColumn": 167
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1296,
+                  "startColumn": 17,
+                  "endLine": 1296,
+                  "endColumn": 167
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1297,
+                  "startColumn": 17,
+                  "endLine": 1297,
+                  "endColumn": 164
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1298,
+                  "startColumn": 17,
+                  "endLine": 1298,
+                  "endColumn": 167
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1299,
+                  "startColumn": 17,
+                  "endLine": 1299,
+                  "endColumn": 167
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1300,
+                  "startColumn": 17,
+                  "endLine": 1300,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1301,
+                  "startColumn": 17,
+                  "endLine": 1301,
+                  "endColumn": 167
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1302,
+                  "startColumn": 17,
+                  "endLine": 1302,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1303,
+                  "startColumn": 17,
+                  "endLine": 1303,
+                  "endColumn": 167
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1304,
+                  "startColumn": 17,
+                  "endLine": 1304,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1305,
+                  "startColumn": 17,
+                  "endLine": 1305,
+                  "endColumn": 167
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1306,
+                  "startColumn": 17,
+                  "endLine": 1306,
+                  "endColumn": 167
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1307,
+                  "startColumn": 17,
+                  "endLine": 1307,
+                  "endColumn": 167
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1308,
+                  "startColumn": 17,
+                  "endLine": 1308,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1309,
+                  "startColumn": 17,
+                  "endLine": 1309,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1310,
+                  "startColumn": 17,
+                  "endLine": 1310,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1311,
+                  "startColumn": 17,
+                  "endLine": 1311,
+                  "endColumn": 163
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1312,
+                  "startColumn": 17,
+                  "endLine": 1312,
+                  "endColumn": 163
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1313,
+                  "startColumn": 17,
+                  "endLine": 1313,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1155",
+          "level": "warning",
+          "message": "Use '.Any()' to test whether this 'IEnumerable<DocumentFormat.OpenXml.Spreadsheet.Sheet>' is empty or not.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 81,
+                  "startColumn": 85,
+                  "endLine": 81,
+                  "endColumn": 90
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1314,
+                  "startColumn": 17,
+                  "endLine": 1314,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1315,
+                  "startColumn": 17,
+                  "endLine": 1315,
+                  "endColumn": 167
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1316,
+                  "startColumn": 17,
+                  "endLine": 1316,
+                  "endColumn": 167
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1317,
+                  "startColumn": 17,
+                  "endLine": 1317,
+                  "endColumn": 167
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1318,
+                  "startColumn": 17,
+                  "endLine": 1318,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1319,
+                  "startColumn": 17,
+                  "endLine": 1319,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1320,
+                  "startColumn": 17,
+                  "endLine": 1320,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1321,
+                  "startColumn": 17,
+                  "endLine": 1321,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1322,
+                  "startColumn": 17,
+                  "endLine": 1322,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1323,
+                  "startColumn": 17,
+                  "endLine": 1323,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1324,
+                  "startColumn": 17,
+                  "endLine": 1324,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1325,
+                  "startColumn": 17,
+                  "endLine": 1325,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1326,
+                  "startColumn": 17,
+                  "endLine": 1326,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1327,
+                  "startColumn": 17,
+                  "endLine": 1327,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1328,
+                  "startColumn": 17,
+                  "endLine": 1328,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1329,
+                  "startColumn": 17,
+                  "endLine": 1329,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1330,
+                  "startColumn": 17,
+                  "endLine": 1330,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1331,
+                  "startColumn": 17,
+                  "endLine": 1331,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1332,
+                  "startColumn": 17,
+                  "endLine": 1332,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1333,
+                  "startColumn": 17,
+                  "endLine": 1333,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1334,
+                  "startColumn": 17,
+                  "endLine": 1334,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1335,
+                  "startColumn": 17,
+                  "endLine": 1335,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1336,
+                  "startColumn": 17,
+                  "endLine": 1336,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1337,
+                  "startColumn": 17,
+                  "endLine": 1337,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1338,
+                  "startColumn": 17,
+                  "endLine": 1338,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1339,
+                  "startColumn": 17,
+                  "endLine": 1339,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1340,
+                  "startColumn": 17,
+                  "endLine": 1340,
+                  "endColumn": 166
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1349,
+                  "startColumn": 17,
+                  "endLine": 1349,
+                  "endColumn": 53
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'void OpenXmlElement.Append(IEnumerable<OpenXmlElement> newChildren)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1390,
+                  "startColumn": 29,
+                  "endLine": 1390,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1871",
+          "level": "warning",
+          "message": "Either merge this branch with the identical one on line 1399 or change one of the implementations.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1439,
+                  "startColumn": 25,
+                  "endLine": 1444,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1399,
+                  "startColumn": 25,
+                  "endLine": 1404,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'workbookPart'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 20,
+                  "startColumn": 21,
+                  "endLine": 20,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1854",
+          "level": "warning",
+          "message": "Remove this useless assignment to local variable 'contadorColumn'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/HumanManagement.CrossCutting/Utils/Functions.cs",
+                "region": {
+                  "startLine": 1340,
+                  "startColumn": 168,
+                  "endLine": 1340,
+                  "endColumn": 184
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "S107": {
+          "id": "S107",
+          "shortDescription": "Methods should not have too many parameters",
+          "fullDescription": "A long parameter list can indicate that a new structure should be created to wrap the numerous parameters or that the function is doing too many things.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-107",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": false,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S1075": {
+          "id": "S1075",
+          "shortDescription": "URIs should not be hardcoded",
+          "fullDescription": "Hardcoding a URI makes it difficult to test a program: path literals are not always portable across operating systems, a given absolute path may not exist on a specific test environment, a specified Internet URL may not be available when executing the tests, production environment filesystems usually differ from the development environment, …​etc. For all those reasons, a URI should never be hardcoded. Instead, it should be replaced by customizable parameter.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1075",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S108": {
+          "id": "S108",
+          "shortDescription": "Nested blocks of code should not be left empty",
+          "fullDescription": "Most of the time a block of code is empty when a piece of code is really missing. So such empty block must be either filled or removed.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-108",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S1118": {
+          "id": "S1118",
+          "shortDescription": "Utility classes should not have public constructors",
+          "fullDescription": "Utility classes, which are collections of static members, are not meant to be instantiated.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1118",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S1125": {
+          "id": "S1125",
+          "shortDescription": "Boolean literals should not be redundant",
+          "fullDescription": "Redundant Boolean literals should be removed from expressions to improve readability.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1125",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S1155": {
+          "id": "S1155",
+          "shortDescription": "\"Any()\" should be used to test for emptiness",
+          "fullDescription": "Using .Count() to test for emptiness works, but using .Any() makes the intent clearer, and the code more readable. However, there are some cases where special attention should be paid:",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1155",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S1185": {
+          "id": "S1185",
+          "shortDescription": "Overriding members should do more than simply call the same member in the base class",
+          "fullDescription": "Overriding a method just to call the same method from the base class without performing any other actions is useless and misleading. The only time this is justified is in sealed overriding methods, where the effect is to lock in the parent class behavior. This rule ignores overrides of Equals and GetHashCode.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1185",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S125": {
+          "id": "S125",
+          "shortDescription": "Sections of code should not be commented out",
+          "fullDescription": "Programmers should not comment out code as it bloats programs and reduces readability.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-125",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S1481": {
+          "id": "S1481",
+          "shortDescription": "Unused local variables should be removed",
+          "fullDescription": "If a local variable is declared but not used, it is dead code and should be removed. Doing so will improve maintainability because developers will not wonder what the variable is used for.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1481",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S1854": {
+          "id": "S1854",
+          "shortDescription": "Unused assignments should be removed",
+          "fullDescription": "A dead store happens when a local variable is assigned a value that is not read by any subsequent instruction. Calculating or retrieving a value only to then overwrite it or throw it away, could indicate a serious error in the code. Even if it’s not an error, it is at best a waste of resources. Therefore all calculated values should be used.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1854",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S1871": {
+          "id": "S1871",
+          "shortDescription": "Two branches in a conditional structure should not have exactly the same implementation",
+          "fullDescription": "Having two cases in the same switch statement or branches in the same if structure with the same implementation is at best duplicate code, and at worst a coding error. If the same logic is truly needed for both instances, then in an if structure they should be combined, or for a switch, one should fall through to the other.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1871",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S2326": {
+          "id": "S2326",
+          "shortDescription": "Unused type parameters should be removed",
+          "fullDescription": "Type parameters that aren’t used are dead code, which can only distract and possibly confuse developers during maintenance. Therefore, unused type parameters should be removed.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2326",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S3220": {
+          "id": "S3220",
+          "shortDescription": "Method calls should not resolve ambiguously to overloads with \"params\"",
+          "fullDescription": "The rules for method resolution are complex and perhaps not properly understood by all coders. The params keyword can make method declarations overlap in non-obvious ways, so that slight changes in the argument types of an invocation can resolve to different methods.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3220",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S3776": {
+          "id": "S3776",
+          "shortDescription": "Cognitive Complexity of methods should not be too high",
+          "fullDescription": "Cognitive Complexity is a measure of how hard the control flow of a method is to understand. Methods with high Cognitive Complexity will be difficult to maintain.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3776",
+          "properties": {
+            "category": "Critical Code Smell",
+            "isEnabledByDefault": false,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S3923": {
+          "id": "S3923",
+          "shortDescription": "All branches in a conditional structure should not have exactly the same implementation",
+          "fullDescription": "Having all branches in a switch or if chain with the same implementation is an error. Either a copy-paste error was made and something different should be executed, or there shouldn’t be a switch/if chain at all.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3923",
+          "properties": {
+            "category": "Major Bug",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

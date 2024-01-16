@@ -1,0 +1,1485 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Compilador de Microsoft (R) Visual C#",
+        "version": "3.9.0.0",
+        "fileVersion": "3.9.0-6.21160.10 (59eedc33)",
+        "semanticVersion": "3.9.0",
+        "language": "es-ES"
+      },
+      "results": [
+        {
+          "ruleId": "CS0169",
+          "level": "warning",
+          "message": "El campo 'LoginService.profileResourceRepository' nunca se usa",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Security/Services/LoginService.cs",
+                "region": {
+                  "startLine": 22,
+                  "startColumn": 105,
+                  "endLine": 22,
+                  "endColumn": 130
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Disability/Service/DisabilityService.cs",
+                "region": {
+                  "startLine": 53,
+                  "startColumn": 12,
+                  "endLine": 53,
+                  "endColumn": 74
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Filters/ValidationFilterAsync.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 17,
+                  "endLine": 15,
+                  "endColumn": 83
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Job/Services/JobService.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 9,
+                  "endLine": 32,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Person/Services/PersonService.cs",
+                "region": {
+                  "startLine": 201,
+                  "startColumn": 13,
+                  "endLine": 201,
+                  "endColumn": 66
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/RecruitmentArea/Services/RecruitmentAreaService.cs",
+                "region": {
+                  "startLine": 35,
+                  "startColumn": 13,
+                  "endLine": 35,
+                  "endColumn": 59
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Security/Services/LoginService.cs",
+                "region": {
+                  "startLine": 39,
+                  "startColumn": 13,
+                  "endLine": 39,
+                  "endColumn": 77
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Security/Services/LoginService.cs",
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 13,
+                  "endLine": 59,
+                  "endColumn": 90
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Security/Services/UserService.cs",
+                "region": {
+                  "startLine": 226,
+                  "startColumn": 13,
+                  "endLine": 226,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Security/Services/UserService.cs",
+                "region": {
+                  "startLine": 277,
+                  "startColumn": 13,
+                  "endLine": 277,
+                  "endColumn": 129
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S4487",
+          "level": "warning",
+          "message": "Remove this unread private field 'mapper' or refactor the code to use its value.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Applications/Services/ApplicantService.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 34,
+                  "endLine": 19,
+                  "endColumn": 40
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3925",
+          "level": "warning",
+          "message": "Update this implementation of 'ISerializable' to conform to the recommended serialization pattern.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Exceptions/ValidationException.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 18,
+                  "endLine": 8,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Exceptions/ValidationException.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 12,
+                  "endLine": 8,
+                  "endColumn": 17
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Exceptions/ValidationException.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 12,
+                  "endLine": 8,
+                  "endColumn": 17
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "Add 'System.SerializableAttribute' attribute on 'ValidationException' because it implements 'ISerializable'.",
+              "1": "Add a 'protected' constructor 'ValidationException(SerializationInfo, StreamingContext)'."
+            }
+          }
+        },
+        {
+          "ruleId": "S3925",
+          "level": "warning",
+          "message": "Update this implementation of 'ISerializable' to conform to the recommended serialization pattern.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Exceptions/ApiException.cs",
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 18,
+                  "endLine": 6,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Exceptions/ApiException.cs",
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 12,
+                  "endLine": 6,
+                  "endColumn": 17
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Exceptions/ApiException.cs",
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 12,
+                  "endLine": 6,
+                  "endColumn": 17
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "Add 'System.SerializableAttribute' attribute on 'ApiException' because it implements 'ISerializable'.",
+              "1": "Add a 'protected' constructor 'ApiException(SerializationInfo, StreamingContext)'."
+            }
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make '_mapper' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/RecruitmentArea/Services/RecruitmentAreaService.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 25,
+                  "endLine": 21,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S4487",
+          "level": "warning",
+          "message": "Remove this unread private field '_baseRepository' or refactor the code to use its value.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/RecruitmentArea/Services/RecruitmentAreaService.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 105,
+                  "endLine": 19,
+                  "endColumn": 120
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S4487",
+          "level": "warning",
+          "message": "Remove this unread private field '_unitOfWork' or refactor the code to use its value.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/RecruitmentArea/Services/RecruitmentAreaService.cs",
+                "region": {
+                  "startLine": 20,
+                  "startColumn": 38,
+                  "endLine": 20,
+                  "endColumn": 49
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S4487",
+          "level": "warning",
+          "message": "Remove this unread private field '_mapper' or refactor the code to use its value.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/RecruitmentArea/Services/RecruitmentAreaService.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 25,
+                  "endLine": 21,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1144",
+          "level": "warning",
+          "message": "Remove the unused private field 'profileResourceRepository'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Security/Services/LoginService.cs",
+                "region": {
+                  "startLine": 22,
+                  "startColumn": 9,
+                  "endLine": 22,
+                  "endColumn": 131
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2971",
+          "level": "warning",
+          "message": "Use 'Count' property here instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Applications/Services/ApplicantService.cs",
+                "region": {
+                  "startLine": 42,
+                  "startColumn": 36,
+                  "endLine": 42,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S107",
+          "level": "warning",
+          "message": "Constructor has 11 parameters, which is greater than the 7 authorized.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Security/Services/UserService.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 27,
+                  "endLine": 53,
+                  "endColumn": 64
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'result'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Security/Services/UserService.cs",
+                "region": {
+                  "startLine": 70,
+                  "startColumn": 17,
+                  "endLine": 70,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1125",
+          "level": "warning",
+          "message": "Remove the unnecessary Boolean literal(s).",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Disability/Service/DisabilityService.cs",
+                "region": {
+                  "startLine": 66,
+                  "startColumn": 102,
+                  "endLine": 66,
+                  "endColumn": 109
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S927",
+          "level": "warning",
+          "message": "Rename parameter 'file' to 'certificado' to match the interface declaration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Disability/Service/DisabilityService.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 68,
+                  "endLine": 30,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1125",
+          "level": "warning",
+          "message": "Remove the unnecessary Boolean literal(s).",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Security/Services/UserService.cs",
+                "region": {
+                  "startLine": 125,
+                  "startColumn": 23,
+                  "endLine": 125,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'user'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Security/Services/UserService.cs",
+                "region": {
+                  "startLine": 81,
+                  "startColumn": 17,
+                  "endLine": 81,
+                  "endColumn": 21
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable '_passwordResetExpiry'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Security/Services/UserService.cs",
+                "region": {
+                  "startLine": 343,
+                  "startColumn": 22,
+                  "endLine": 343,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'start'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Security/Services/UserService.cs",
+                "region": {
+                  "startLine": 364,
+                  "startColumn": 23,
+                  "endLine": 364,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'reqMail'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Security/Services/UserService.cs",
+                "region": {
+                  "startLine": 262,
+                  "startColumn": 28,
+                  "endLine": 262,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3220",
+          "level": "warning",
+          "message": "Review this call, which partially matches an overload without 'params'. The partial match is 'string[] string.Split(char separator, int count, StringSplitOptions options = StringSplitOptions.None)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Filters/CustomExceptionFilter.cs",
+                "region": {
+                  "startLine": 90,
+                  "startColumn": 31,
+                  "endLine": 90,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1905",
+          "level": "warning",
+          "message": "Remove this unnecessary cast to 'Exception'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Filters/CustomExceptionFilter.cs",
+                "region": {
+                  "startLine": 60,
+                  "startColumn": 44,
+                  "endLine": 60,
+                  "endColumn": 56
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S107",
+          "level": "warning",
+          "message": "Constructor has 8 parameters, which is greater than the 7 authorized.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Job/Services/JobService.cs",
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 26,
+                  "endLine": 39,
+                  "endColumn": 76
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3776",
+          "level": "warning",
+          "message": "Refactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Job/Services/JobService.cs",
+                "region": {
+                  "startLine": 83,
+                  "startColumn": 35,
+                  "endLine": 83,
+                  "endColumn": 50
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Job/Services/JobService.cs",
+                "region": {
+                  "startLine": 106,
+                  "startColumn": 13,
+                  "endLine": 106,
+                  "endColumn": 15
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Job/Services/JobService.cs",
+                "region": {
+                  "startLine": 107,
+                  "startColumn": 13,
+                  "endLine": 107,
+                  "endColumn": 15
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Job/Services/JobService.cs",
+                "region": {
+                  "startLine": 108,
+                  "startColumn": 13,
+                  "endLine": 108,
+                  "endColumn": 15
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Job/Services/JobService.cs",
+                "region": {
+                  "startLine": 109,
+                  "startColumn": 13,
+                  "endLine": 109,
+                  "endColumn": 15
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Job/Services/JobService.cs",
+                "region": {
+                  "startLine": 110,
+                  "startColumn": 13,
+                  "endLine": 110,
+                  "endColumn": 15
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Job/Services/JobService.cs",
+                "region": {
+                  "startLine": 111,
+                  "startColumn": 13,
+                  "endLine": 111,
+                  "endColumn": 15
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Job/Services/JobService.cs",
+                "region": {
+                  "startLine": 112,
+                  "startColumn": 13,
+                  "endLine": 112,
+                  "endColumn": 15
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Job/Services/JobService.cs",
+                "region": {
+                  "startLine": 113,
+                  "startColumn": 13,
+                  "endLine": 113,
+                  "endColumn": 15
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Job/Services/JobService.cs",
+                "region": {
+                  "startLine": 114,
+                  "startColumn": 13,
+                  "endLine": 114,
+                  "endColumn": 15
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Job/Services/JobService.cs",
+                "region": {
+                  "startLine": 116,
+                  "startColumn": 13,
+                  "endLine": 116,
+                  "endColumn": 15
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Job/Services/JobService.cs",
+                "region": {
+                  "startLine": 117,
+                  "startColumn": 13,
+                  "endLine": 117,
+                  "endColumn": 15
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Job/Services/JobService.cs",
+                "region": {
+                  "startLine": 118,
+                  "startColumn": 13,
+                  "endLine": 118,
+                  "endColumn": 15
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Job/Services/JobService.cs",
+                "region": {
+                  "startLine": 119,
+                  "startColumn": 13,
+                  "endLine": 119,
+                  "endColumn": 15
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Job/Services/JobService.cs",
+                "region": {
+                  "startLine": 120,
+                  "startColumn": 13,
+                  "endLine": 120,
+                  "endColumn": 15
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Job/Services/JobService.cs",
+                "region": {
+                  "startLine": 121,
+                  "startColumn": 13,
+                  "endLine": 121,
+                  "endColumn": 15
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Job/Services/JobService.cs",
+                "region": {
+                  "startLine": 123,
+                  "startColumn": 13,
+                  "endLine": 123,
+                  "endColumn": 15
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Job/Services/JobService.cs",
+                "region": {
+                  "startLine": 135,
+                  "startColumn": 13,
+                  "endLine": 135,
+                  "endColumn": 15
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Job/Services/JobService.cs",
+                "region": {
+                  "startLine": 135,
+                  "startColumn": 39,
+                  "endLine": 135,
+                  "endColumn": 41
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Job/Services/JobService.cs",
+                "region": {
+                  "startLine": 142,
+                  "startColumn": 13,
+                  "endLine": 142,
+                  "endColumn": 17
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Job/Services/JobService.cs",
+                "region": {
+                  "startLine": 145,
+                  "startColumn": 17,
+                  "endLine": 145,
+                  "endColumn": 19
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Job/Services/JobService.cs",
+                "region": {
+                  "startLine": 145,
+                  "startColumn": 43,
+                  "endLine": 145,
+                  "endColumn": 45
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Job/Services/JobService.cs",
+                "region": {
+                  "startLine": 149,
+                  "startColumn": 17,
+                  "endLine": 149,
+                  "endColumn": 21
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Job/Services/JobService.cs",
+                "region": {
+                  "startLine": 151,
+                  "startColumn": 21,
+                  "endLine": 151,
+                  "endColumn": 23
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Job/Services/JobService.cs",
+                "region": {
+                  "startLine": 155,
+                  "startColumn": 21,
+                  "endLine": 155,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "+1",
+              "1": "+1",
+              "10": "+1",
+              "11": "+1",
+              "12": "+1",
+              "13": "+1",
+              "14": "+1",
+              "15": "+1",
+              "16": "+1",
+              "17": "+1",
+              "18": "+1",
+              "19": "+2 (incl 1 for nesting)",
+              "2": "+1",
+              "20": "+1",
+              "21": "+1",
+              "22": "+3 (incl 2 for nesting)",
+              "23": "+1",
+              "3": "+1",
+              "4": "+1",
+              "5": "+1",
+              "6": "+1",
+              "7": "+1",
+              "8": "+1",
+              "9": "+1"
+            }
+          }
+        },
+        {
+          "ruleId": "S1125",
+          "level": "warning",
+          "message": "Remove the unnecessary Boolean literal(s).",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/JobObjective/Service/JobObjectiveService.cs",
+                "region": {
+                  "startLine": 40,
+                  "startColumn": 105,
+                  "endLine": 40,
+                  "endColumn": 112
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1125",
+          "level": "warning",
+          "message": "Remove the unnecessary Boolean literal(s).",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Security/Services/LoginService.cs",
+                "region": {
+                  "startLine": 53,
+                  "startColumn": 45,
+                  "endLine": 53,
+                  "endColumn": 50
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'idprofile'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Security/Services/LoginService.cs",
+                "region": {
+                  "startLine": 58,
+                  "startColumn": 17,
+                  "endLine": 58,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2971",
+          "level": "warning",
+          "message": "Use 'Count' property here instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Job/Services/JobService.cs",
+                "region": {
+                  "startLine": 189,
+                  "startColumn": 41,
+                  "endLine": 189,
+                  "endColumn": 46
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2971",
+          "level": "warning",
+          "message": "Use 'Count' property here instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Job/Services/JobService.cs",
+                "region": {
+                  "startLine": 133,
+                  "startColumn": 70,
+                  "endLine": 133,
+                  "endColumn": 75
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2971",
+          "level": "warning",
+          "message": "Use 'Count' property here instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Job/Services/JobService.cs",
+                "region": {
+                  "startLine": 134,
+                  "startColumn": 66,
+                  "endLine": 134,
+                  "endColumn": 71
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1125",
+          "level": "warning",
+          "message": "Remove the unnecessary Boolean literal(s).",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/SalaryPreference/Service/SalaryPreferenceService.cs",
+                "region": {
+                  "startLine": 41,
+                  "startColumn": 105,
+                  "endLine": 41,
+                  "endColumn": 112
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'result'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Person/Services/PersonService.cs",
+                "region": {
+                  "startLine": 145,
+                  "startColumn": 21,
+                  "endLine": 145,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'result'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Person/Services/PersonService.cs",
+                "region": {
+                  "startLine": 103,
+                  "startColumn": 17,
+                  "endLine": 103,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'birthDate'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/GIT_EFITEC2021/GrupoFeFaseDos/HumanManagement/SitePostulant.Application/Person/Services/PersonService.cs",
+                "region": {
+                  "startLine": 191,
+                  "startColumn": 17,
+                  "endLine": 191,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "CS0169": {
+          "id": "CS0169",
+          "shortDescription": "Nunca se usa el campo",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS0169)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "S107": {
+          "id": "S107",
+          "shortDescription": "Methods should not have too many parameters",
+          "fullDescription": "A long parameter list can indicate that a new structure should be created to wrap the numerous parameters or that the function is doing too many things.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-107",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": false,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S1125": {
+          "id": "S1125",
+          "shortDescription": "Boolean literals should not be redundant",
+          "fullDescription": "Redundant Boolean literals should be removed from expressions to improve readability.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1125",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S1144": {
+          "id": "S1144",
+          "shortDescription": "Unused private types or members should be removed",
+          "fullDescription": "private or internal types or private members that are never executed or referenced are dead code: unnecessary, inoperative code that should be removed. Cleaning out dead code decreases the size of the maintained codebase, making it easier to understand the program and preventing bugs from being introduced.",
+          "defaultLevel": "note",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1144",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay",
+              "Unnecessary"
+            ]
+          }
+        },
+        "S125": {
+          "id": "S125",
+          "shortDescription": "Sections of code should not be commented out",
+          "fullDescription": "Programmers should not comment out code as it bloats programs and reduces readability.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-125",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S1481": {
+          "id": "S1481",
+          "shortDescription": "Unused local variables should be removed",
+          "fullDescription": "If a local variable is declared but not used, it is dead code and should be removed. Doing so will improve maintainability because developers will not wonder what the variable is used for.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1481",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S1905": {
+          "id": "S1905",
+          "shortDescription": "Redundant casts should not be used",
+          "fullDescription": "Unnecessary casting expressions make the code harder to read and understand.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1905",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S2933": {
+          "id": "S2933",
+          "shortDescription": "Fields that are only assigned in the constructor should be \"readonly\"",
+          "fullDescription": "readonly fields can only be assigned in a class constructor. If a class has a field that’s not marked readonly but is only set in the constructor, it could cause confusion about the field’s intended use. To avoid confusion, such fields should be marked readonly to make their intended use explicit, and to prevent future maintainers from inadvertently changing their use.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2933",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S2971": {
+          "id": "S2971",
+          "shortDescription": "\"IEnumerable\" LINQs should be simplified",
+          "fullDescription": "In the interests of readability, code that can be simplified should be simplified. To that end, there are several ways IEnumerable language integrated queries (LINQ) can be simplified",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2971",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S3220": {
+          "id": "S3220",
+          "shortDescription": "Method calls should not resolve ambiguously to overloads with \"params\"",
+          "fullDescription": "The rules for method resolution are complex and perhaps not properly understood by all coders. The params keyword can make method declarations overlap in non-obvious ways, so that slight changes in the argument types of an invocation can resolve to different methods.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3220",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S3776": {
+          "id": "S3776",
+          "shortDescription": "Cognitive Complexity of methods should not be too high",
+          "fullDescription": "Cognitive Complexity is a measure of how hard the control flow of a method is to understand. Methods with high Cognitive Complexity will be difficult to maintain.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3776",
+          "properties": {
+            "category": "Critical Code Smell",
+            "isEnabledByDefault": false,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S3925": {
+          "id": "S3925",
+          "shortDescription": "\"ISerializable\" should be implemented correctly",
+          "fullDescription": "The ISerializable interface is the mechanism to control the type serialization process. If not implemented correctly this could result in an invalid serialization and hard to detect bugs.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3925",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S4487": {
+          "id": "S4487",
+          "shortDescription": "Unread \"private\" fields should be removed",
+          "fullDescription": "Private fields only used to store values without reading them later is a case of dead store. So changing the value of such field is useless and most probably indicates a serious error in the code.",
+          "defaultLevel": "note",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-4487",
+          "properties": {
+            "category": "Critical Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay",
+              "Unnecessary"
+            ]
+          }
+        },
+        "S927": {
+          "id": "S927",
+          "shortDescription": "Parameter names should match base declaration and other partial definitions",
+          "fullDescription": "The name of a parameter in an externally visible. This rule raises an issue when method override does not match the name of the parameter in the base declaration of the method, or the name of the parameter in the interface declaration of the method or the name of any other partial definition.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-927",
+          "properties": {
+            "category": "Critical Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

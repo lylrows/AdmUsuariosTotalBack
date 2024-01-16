@@ -1,0 +1,3 @@
+﻿D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\HumanManagement.Security\Encryption\Cryptography.cs
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\HumanManagement.Security\PasswordGenerator.cs
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\HumanManagement.Security\TokenGenerator.cs

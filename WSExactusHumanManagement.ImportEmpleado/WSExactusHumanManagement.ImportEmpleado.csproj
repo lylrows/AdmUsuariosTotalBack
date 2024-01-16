@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>dotnet-WSExactusHumanManagement.ImportEmpleado-6FF34BD6-24C9-4F4A-AD10-27E8E1D05B29</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="3.1.12" />
+    <PackageReference Include="Microsoft.Extensions.Hosting.WindowsServices" Version="3.1.12" />
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+    <PackageReference Include="Serilog.AspNetCore" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HumanManagement.Application\HumanManagement.Application.csproj" />
+    <ProjectReference Include="..\HumanManagement.Mail\HumanManagement.Mail.csproj" />
+    <ProjectReference Include="..\HumanManagement.MsSqlExactus\HumanManagement.MsSqlExactus.csproj" />
+    <ProjectReference Include="..\HumanManagement.MsSql\HumanManagement.MsSql.csproj" />
+    <ProjectReference Include="..\HumanManagement.ReadHtml\HumanManagement.ReadHtml.csproj" />
+    <ProjectReference Include="..\HumanManagement.Security\HumanManagement.Security.csproj" />
+    <ProjectReference Include="..\SitePostulant.Application\SitePostulant.Application.csproj" />
+    <ProjectReference Include="..\WSHumanManagement.Application\WSHumanManagement.Application.csproj" />
+  </ItemGroup>
+</Project>

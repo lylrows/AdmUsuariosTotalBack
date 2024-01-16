@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>dotnet-WSExactusHumanManagement.ImportNomina-2EAC8CA0-CF6D-41BF-A0B8-4D3865EBB18F</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="3.1.12" />
+    <PackageReference Include="Microsoft.Extensions.Hosting.WindowsServices" Version="3.1.12" />
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+    <PackageReference Include="Serilog.AspNetCore" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HumanManagement.Application\HumanManagement.Application.csproj" />
+    <ProjectReference Include="..\HumanManagement.MsSqlExactus\HumanManagement.MsSqlExactus.csproj" />
+    <ProjectReference Include="..\HumanManagement.MsSql\HumanManagement.MsSql.csproj" />
+    <ProjectReference Include="..\SitePostulant.Application\SitePostulant.Application.csproj" />
+    <ProjectReference Include="..\WSHumanManagement.Application\WSHumanManagement.Application.csproj" />
+  </ItemGroup>
+</Project>

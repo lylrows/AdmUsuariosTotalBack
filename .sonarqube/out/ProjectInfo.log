@@ -1,0 +1,35 @@
+Product projects
+---------------------------------------
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\HumanManagement.WebServices\HumanManagement.WebServices.csproj
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\HumanManagement.CrossCutting\HumanManagement.CrossCutting.csproj
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\WSHumanManagement.Application\WSHumanManagement.Application.csproj
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\HumanManagement.ExactusImport\HumanManagement.ExactusImport.csproj
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\WSTestLogService.Test\WSTestLogService.Test.csproj
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\HumanManagement.Domain\HumanManagement.Domain.csproj
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\HumanManagement.MsSqlExactus\HumanManagement.MsSqlExactus.csproj
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\HumanManagement.Mail\HumanManagement.Mail.csproj
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\SitePostulant.Application\SitePostulant.Application.csproj
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\HumanManagement.Security\HumanManagement.Security.csproj
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\HumanManagement.MsSqlServerUs\HumanManagement.MsSqlServerUs.csproj
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\HumanManagement.ReadHtml\HumanManagement.ReadHtml.csproj
+
+
+Test projects
+---------------------------------------
+
+
+Invalid projects
+---------------------------------------
+{none}
+
+
+Skipped projects
+---------------------------------------
+{none}
+
+
+Excluded projects
+---------------------------------------
+{none}
+
+

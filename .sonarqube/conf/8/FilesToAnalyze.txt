@@ -1,0 +1,6 @@
+﻿D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\HumanManagement.MsSqlServerUs\Connections\ServerUsReadDbConnection.cs
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\HumanManagement.MsSqlServerUs\Connections\ServerUsWriteDbConnection.cs
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\HumanManagement.MsSqlServerUs\Context\ServerUsDbContext.cs
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\HumanManagement.MsSqlServerUs\Context\ServerUsDbContextMsSql.cs
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\HumanManagement.MsSqlServerUs\Repository\SUMovAsistenciaCabRepository.cs
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\HumanManagement.MsSqlServerUs\Repository\SUMovAsistenciaDetRepository.cs

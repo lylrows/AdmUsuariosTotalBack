@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "WSExactusHumanManagement.ImportEmpleado": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

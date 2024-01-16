@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HumanManagement.Application\HumanManagement.Application.csproj" />
+    <ProjectReference Include="..\HumanManagement.CrossCutting\HumanManagement.CrossCutting.csproj" />
+    <ProjectReference Include="..\HumanManagement.Domain\HumanManagement.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

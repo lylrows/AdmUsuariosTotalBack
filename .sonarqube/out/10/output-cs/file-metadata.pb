@@ -1,0 +1,19 @@
+”
+ŠD:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\WSHumanManagement.Application\Exactus\Departamento\IServices\IExactusDepartamentoLogic.csutf-8–
+ŒD:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\WSHumanManagement.Application\Exactus\Departamento\IServices\IExactusDepartamentoService.csutf-8’
+ˆD:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\WSHumanManagement.Application\Exactus\Departamento\Services\ExactusDepartamentoLogic.csutf-8”
+ŠD:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\WSHumanManagement.Application\Exactus\Departamento\Services\ExactusDepartamentoService.csutf-8Ž
+„D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\WSHumanManagement.Application\Exactus\Empleado\IServices\IExactusEmpleadoService.csutf-8Œ
+‚D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\WSHumanManagement.Application\Exactus\Empleado\Services\ExactusEmpleadoService.csutf-8Š
+€D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\WSHumanManagement.Application\Exactus\Nomina\IServices\IExactusNominaService.csutf-8‡
+~D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\WSHumanManagement.Application\Exactus\Nomina\Services\ExactusNominaService.csutf-8‡
+~D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\WSHumanManagement.Application\Exactus\Puesto\IServices\IExactusPuestoLogic.csutf-8Š
+€D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\WSHumanManagement.Application\Exactus\Puesto\IServices\IExactusPuestoService.csutf-8…
+|D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\WSHumanManagement.Application\Exactus\Puesto\Services\ExactusPuestoLogic.csutf-8‡
+~D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\WSHumanManagement.Application\Exactus\Puesto\Services\ExactusPuestoService.csutf-8z
+qD:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\WSHumanManagement.Application\Extensions\CustomWindowsService.csutf-8j
+aD:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\WSHumanManagement.Application\Response\Result.csutf-8”
+ŠD:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\WSHumanManagement.Application\ServerUs\Asistencia\IServices\IServerUsAsistenciaService.csutf-8’
+ˆD:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\WSHumanManagement.Application\ServerUs\Asistencia\Services\ServerUsAsistenciaService.csutf-8¡
+•D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\WSHumanManagement.Application\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.csutf-8 
+”D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\WSHumanManagement.Application\obj\Debug\netcoreapp3.1\WSHumanManagement.Application.AssemblyInfo.csutf-8

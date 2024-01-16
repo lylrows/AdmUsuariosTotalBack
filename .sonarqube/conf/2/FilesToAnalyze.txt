@@ -1,0 +1,5 @@
+﻿D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\WSTestLogService.Test\Program.cs
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\WSTestLogService.Test\Worker.cs
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\WSTestLogService.Test\appsettings.Development.json
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\WSTestLogService.Test\appsettings.json
+D:\GIT_EFITEC2021\GrupoFeFaseDos\HumanManagement\WSTestLogService.Test\Properties\launchSettings.json

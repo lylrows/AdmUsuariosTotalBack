@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "WSTestLogService.Test": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

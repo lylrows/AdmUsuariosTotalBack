@@ -1,0 +1,17 @@
+﻿using HumanManagement.Domain.Events;
+using HumanManagement.Domain.Postulant.Security.Dto;
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace HumanManagement.Domain.Postulant.Security.Events
+{
+    public class UserRegistered : IDomainEvent
+    {
+        public UserMailDto UserMail { get; private set; }
+        public UserRegistered(UserMailDto UserMail)
+        {
+            this.UserMail = UserMail;
+        }
+    }
+}
